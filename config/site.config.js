@@ -50,7 +50,7 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/jqywox/vercel',
+      link: 'https://ovi.swo.moe/docs/getting-started',
     },
     {
       name: 'Telegram',
